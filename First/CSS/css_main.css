@@ -423,4 +423,9 @@ input {
     vertical-align: text-bottom;
 }
 
+@font-face
+{
+    font-family: DaxlinePro-Regular;
+    src: url("../Fonts/DaxlinePro-Regular.ttf");
+}
 
